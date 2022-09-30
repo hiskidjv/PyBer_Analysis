@@ -12,7 +12,11 @@ It was no surprise to see that urban ride-share income was greater than suburban
 
 ### Supporting Line Plot
 
-![Summary Information for PyBer, by City Type]("analysis/PyBer_fare_summary.png")
+![Summary Information for PyBer, by City Type](analysis/PyBer_fare_summary.png)
 
 ## Summary
-
+### 3 Business Recommendations/Suggestions
+After doing this little bit of analysis, V. Isualize could be encouraged to consider any of the following:
+1. At $10 more per ride, investing in more rural drivers could raise revenue while being worth the added cost.
+2. With more than twice the number of drivers compared to rides in urban areas, decreasing drivers (and/or relocating them to suburban or rural areas) could cut costs.
+3. With suburban areas showing some great income totals overall- with '19 highs almost reaching urban lows, continued expansion here could be warranted.
